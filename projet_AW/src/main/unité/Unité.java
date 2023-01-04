@@ -10,6 +10,6 @@ public class Unité {
 	Armes armes;
 	boolean aérien;
 	boolean dispo;
-	
+	int vitesse;
 
 }
